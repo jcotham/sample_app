@@ -1,3 +1,4 @@
+Just making a minute change in Michael Hartl tutorial chap 3
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
