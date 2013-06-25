@@ -26,7 +26,7 @@ describe "Static pages" do
    end
 
   describe "About page" do
-      it "should hve the content 'About Us'" do
+      it "should have the content 'About Us'" do
 	 visit '/static_pages/about'
 	 page.should have_selector('h1', :text => 'About Us')
       end
